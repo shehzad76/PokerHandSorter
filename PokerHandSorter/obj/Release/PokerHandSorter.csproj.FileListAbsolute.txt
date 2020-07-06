@@ -1,0 +1,7 @@
+C:\Users\shehz\source\repos\PokerHandSorter\PokerHandSorter\bin\Release\PokerHandSorter.exe.config
+C:\Users\shehz\source\repos\PokerHandSorter\PokerHandSorter\bin\Release\PokerHandSorter.exe
+C:\Users\shehz\source\repos\PokerHandSorter\PokerHandSorter\bin\Release\PokerHandSorter.pdb
+C:\Users\shehz\source\repos\PokerHandSorter\PokerHandSorter\obj\Release\PokerHandSorter.csprojAssemblyReference.cache
+C:\Users\shehz\source\repos\PokerHandSorter\PokerHandSorter\obj\Release\PokerHandSorter.csproj.CoreCompileInputs.cache
+C:\Users\shehz\source\repos\PokerHandSorter\PokerHandSorter\obj\Release\PokerHandSorter.exe
+C:\Users\shehz\source\repos\PokerHandSorter\PokerHandSorter\obj\Release\PokerHandSorter.pdb
